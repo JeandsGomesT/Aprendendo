@@ -2,7 +2,7 @@
 Solução do tamanho dos vetores é que poder ser informardo pelo usuario!!
 
 */
-
+//Qualquer coisa
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
